@@ -1,4 +1,4 @@
-# Object Detection on Video with OpenCV
+# Object Detection on Video with OpenCV & MobileNet-SSD v3 model 
 
 Hey there! Welcome to Object Detection on Video with OpenCV and MobileNet-SSD v3! 🎥
 
